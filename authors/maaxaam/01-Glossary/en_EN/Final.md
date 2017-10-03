@@ -161,7 +161,7 @@ Setting the difficulty for cryptocurrency mining is a challenge, one that needs 
 
 ### Double Bottom Pattern
 
-Forms on a market chart when investors buy and sell to test a downward trend in value. Buying and selling will take place, and over time this will form two distinct and almost-equal valleys on the chart's trend line. Once the second valley has formed, an upward trend will develop past the point of the peaks or tops formed during the pattern's formation. Once that happens, the market is likely to be “bullish,” or upward-trending, for a while; thus, the double bottom pattern is considered a “reversal” pattern, transitioning from a bear to a bull market.
+Forms on a market chart when investors buy and sell to test a downward trend in value. Buying and selling will take place, and over time this will form two distinct and almost-equal valleys on the chart's trend line. Once the second valley has formed, an upward trend is usually expected to develop past the point of the peaks or tops formed during the pattern's formation. Once that happens, the market is likely to be “bullish,” or upward-trending, for a while; thus, the double bottom pattern is considered a “reversal” pattern, transitioning from a bear to a bull market.
 ![Double Bottom](https://upload.wikimedia.org/wikipedia/en/5/59/Double_bottom_confirmation.jpg)
 
 The opposite is the [Double Top Pattern](#double-top-pattern).
