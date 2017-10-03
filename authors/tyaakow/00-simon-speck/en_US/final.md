@@ -39,9 +39,9 @@ It was later reported that the [NSA had payed off RSA](http://www.reuters.com/ar
 
 As numerous security experts have asserted, this push for a wide adoption of algorithms/generators known to be vulnerable, made systems potentially exposed not only to government agencies, but also to hackers who knew what they were doing. This is a history of putting surveillance above security - consciously jeopardizing security of a wide array of systems just to get a hold of more information. They sought millions and millions in funding from the budget to finance planting backdoors into commercial software. Hundreds of millions.
 
-And this is just subversion of standards that has been published.
+These are just subversions of standards that are known.
 
-And there is more. According to Glenn Greenwald's [article in Guardian](https://www.theguardian.com/books/2014/may/12/glenn-greenwald-nsa-tampers-us-internet-routers-snowden) in 2014, quoting NSA's own report, it routinely intercepts network hardware for export - such as firewalls, servers, routers. "The agency then implants backdoor surveillance tools, repackages the devices with a factory seal and sends them on."
+But there is more. According to Glenn Greenwald's [article in Guardian](https://www.theguardian.com/books/2014/may/12/glenn-greenwald-nsa-tampers-us-internet-routers-snowden) in 2014, quoting NSA's own report, it routinely intercepts network hardware for export - such as firewalls, servers, routers. "The agency then implants backdoor surveillance tools, repackages the devices with a factory seal and sends them on."
 
 ![NSA photo of interception/repackaging of cisco routers](../images/04.jpg)
 
