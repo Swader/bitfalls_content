@@ -6,7 +6,7 @@ CryptoUK published the first [Code of Conduct][coc] pertaining to cryptocurrenci
  
 There's no mention of [ICO][ico]s in the [current document][coc], as those will have their own dedicated Code of Conduct.
 
-Iqbal V Gandham, the group's chairman, had this to say:
+Iqbal V Gandham, the group's chairman, [had this to say][link]:
 
 > This is a severely misunderstood sector that has great potential to improve our society. But we are hearing instances of rogue operators and consumer harm.
 > That’s why CryptoUK has been established: to promote best practice and to work with government and regulators to ensure that the UK benefits from the exciting potential of this international technology.
@@ -27,3 +27,4 @@ If you found this article useful or interesting, please [consider donating][dona
 [uk]: https://www.cryptocurrenciesuk.info/
 [coc]: https://www.cryptocurrenciesuk.info/code-of-conducts/
 [cb]: https://www.coinbase.com/join/542b0423734ab06764000001
+[link]: https://www.leaprate.com/cryptocurrency/platforms-cryptocurrency/blockex-cex-io-coinbase-cryptocompare-set-self-regulatory-body-cryptouk/
