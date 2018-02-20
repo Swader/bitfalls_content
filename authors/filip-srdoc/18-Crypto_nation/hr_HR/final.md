@@ -16,11 +16,11 @@ Ukoliko tokeni daju buduće povrate poput dividendi njih nazivamo _asset_ tokeni
 
 Većina tokena su ipak hibridni tokeni koji su kombinacija gore navedenih tokena pa ih je stoga nemoguće svrstati u samo jednu kategoriju. 
 
-Ministar ekonomije, Johann Shceider-Ammann, za Financial Times je [rekao][ft]:
+Državni tajnik Ministarstva financija Švicarske, Jörg Gasser, za Financial Times je [rekao][ft]:
 
 > "Mislimo da je ovdje ogroman potencijal, ali tržište jednostavno nije disciplinirano kako bi mi željeli da bude. Želimo da ICO tržište bude uspješno bez ugrožavanja standarda i integriteta našeg financijskog tržišta."
 
-Dok zemlje poput [Kine][kina] zabranjuju kriptovalute, Švicarska je već proglašena [rajem za kriptovalute][raj], a kako bi privukli još više investitora i _start-upova_ Shceider-Ammann [izjavio][izjavio] je kako Švicarska želi postati "kripto-nacija". 
+Dok zemlje poput [Kine][kina] zabranjuju kriptovalute, Švicarska je već proglašena [rajem za kriptovalute][raj], a kako bi privukli još više investitora i _start-upova_ ministar ekonomije, Johann Shceider-Ammann [izjavio][izjavio] je kako Švicarska želi postati "kripto-nacija". 
 
 ---
 
@@ -32,6 +32,6 @@ Ako vam je ovaj članak koristio, razmislite o tome da nas podržite u daljnjem 
 [ico]: https://bitfalls.com/hr/glossary/#ico
 [ft]: https://www.ft.com/content/c2098ef6-ff84-11e7-9650-9c0ad2d7c5b5
 [kina]: https://bitfalls.com/hr/2018/02/05/cryptocurrency-markets-stuck-limbo-good-bad-news-china-world/
-[izjavio]:  https://www.ft.com/content/737b9634-1303-11e8-8cb6-b9ccc4c4dbbb
+[izjavio]: https://www.ft.com/content/737b9634-1303-11e8-8cb6-b9ccc4c4dbbb
 [raj]: https://bitfalls.com/hr/2018/02/02/sberbank-plans-launch-crypto-exchange/
 
