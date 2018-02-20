@@ -20,7 +20,7 @@ Državni tajnik Ministarstva financija Švicarske, Jörg Gasser, za Financial Ti
 
 > "Mislimo da je ovdje ogroman potencijal, ali tržište jednostavno nije disciplinirano kako bi mi željeli da bude. Želimo da ICO tržište bude uspješno bez ugrožavanja standarda i integriteta našeg financijskog tržišta."
 
-Dok zemlje poput [Kine][kina] zabranjuju kriptovalute, Švicarska je već proglašena [rajem za kriptovalute][raj], a kako bi privukli još više investitora i _start-upova_ ministar ekonomije, Johann Shceider-Ammann [izjavio][izjavio] je kako Švicarska želi postati "kripto-nacija". 
+Dok zemlje poput [Kine][kina] zabranjuju kriptovalute, Švicarska je već proglašena [rajem za kriptovalute][raj], a kako bi privukli još više investitora i _start-upova_ ministar ekonomije, Johann Schneider-Ammann [izjavio][izjavio] je kako Švicarska želi postati "kripto-nacija". 
 
 ---
 
