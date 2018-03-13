@@ -1,4 +1,4 @@
-_Slika preuzeta sa http://www.andrejtrcek.com/bitcoin-roundabout/ 
+_Slika preuzeta sa http://www.andrejtrcek.com/bitcoin-roundabout/_
 
 Centar slovenskog grada Kranja nedavno je postao bogatiji za još jedan spomenik, ovog puta u obliku [Bitcoin][btc] loga. U središte jednog kružnog toka u Kranju smjestili su ga njegovi sponzori, poznata slovenska kripto [mjenjačnica][exc] [Bitstamp][bitstamp] te slovenska tehnološka kompanija [3fs][3fs] objavio je na svom twitter profilu[CryptoCollin][collin]. Prema [izjavi na službenoj stranici][link], lokacija loga simbolizira decentralizirano povezivanje i svijetu šalje poruku o otvorenosti Slovenije po pitanju novih tehnologija, kriptovaluta i optimizacije svakodnevnog života kao i o povjerenju, suradnji i transparentnosti zemlje.
 
