@@ -9,7 +9,7 @@ Ovo je prvi ovakav spomenik u svijetu, a izradili su ga slovenski umjetnici Alek
 
 Slovenija s nešto više od 2 milijuna stanovnika posjeduje 11 bitcoin bankomata ako je suditi po podacima [CoinATMradara][atm], što je prilično puno u usporedbi s Hrvatskom u kojoj na 4,3 milijuna stanovnika dolaze svega 4 bankomata odnosno jedan bitcoin bankomat na više od milijun građana. Tako se Slovenija polako pridružuje [Švicarskoj][švic] u aspektu prihvaćanja kriptovaluta iako cijela Europa općenito itekako zaostaje za SAD-om i Azijom kada je riječ o volumenu trgovanja BTC-a.
 
-Nadamo se kako će ovakva znamenitost barem malo pomoći u podizanju, još uvijek, vrlo niske svijesti europljana o prihvaćanju kriptovaluta što je vjerojatno glavni razlog nedovoljne regulacije kriptovaluta od strane Europske komisije.
+Nadamo se kako će ovakva znamenitost barem malo pomoći u podizanju, još uvijek vrlo niske svijesti evropljana o prihvaćanju kriptovaluta što je vjerojatno glavni razlog nedovoljne regulacije kriptovaluta od strane Europske komisije.
 
 ---
 
