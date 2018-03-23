@@ -2,9 +2,9 @@ Jedna od najvećih i najpoznatijih svjetskih [mjenjačnica][exc], Binance, osim 
 
 Osnivač Binancea, Zhao Changpeng, [rekao][rekao] je kako Binance uskoro otvara mjenjačnicu na mediteranu te kako je blizu sklapanja partnerstva s lokalnim bankama koje će pružati usluge depozita i povlačenja sredstava bez vremenskog okvira.
 
-Nakon velikih [restrikcija][kina] u Kini koje zabranjuju rad mjenjačnicama, Binance je pokušao svoje mjesto pronaći u Japanu u kojem su nedavno zatvorili urede zbog [upozorenja][upozorenje] izdanog od financijske agencije Japana u kojem navode da Binance, kao i nekoliko drugih mjenjačnica, posluje bez odobrenja.
+Nakon velikih [restrikcija][kina] u Kini koje zabranjuju rad mjenjačnicama, Binance je pokušao svoje mjesto pronaći u Japanu od čije su financijske agencije nedavno dobili [upozorenje][upozorenje] u kojem navode da Binance, kao i nekoliko drugih mjenjačnica, posluje bez odobrenja.
 
-Malta je inače jedna od vodećih država na području financijskih tehnologija, a [objavljeno][link] je i kako Institucija za digitalne inovacije na Mallti planira stvoriti regulatorni okvir za kriptovalute, inicijalnu ponudu coinova ([ICO][ico]) te [mjenjačnice][exc] kriptovaluta. Vlada Malte nedavno pozvala Zhaoa da pregleda prijedlog nadolazećeg zakonskog okvira koji se smatra pogodnim za poslovne subjekte kripto svijeta na Malti.
+Malta je inače jedna od vodećih država na području financijskih tehnologija, a [objavljeno][link] je i kako Institucija za digitalne inovacije na Malti planira stvoriti regulatorni okvir za kriptovalute, inicijalnu ponudu coinova ([ICO][ico]) te [mjenjačnice][exc] kriptovaluta. Vlada Malte nedavno je pozvala Zhaoa da pregleda prijedlog nadolazećeg zakonskog okvira koji se smatra pogodnim za poslovne subjekte kripto svijeta na Malti.
 
 ---
 
