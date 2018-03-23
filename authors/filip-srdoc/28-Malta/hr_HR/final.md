@@ -4,7 +4,11 @@ Osnivač Binancea, Zhao Changpeng, [rekao][rekao] je kako Binance uskoro otvara 
 
 Nakon velikih [restrikcija][kina] u Kini koje zabranjuju rad mjenjačnicama, Binance je pokušao svoje mjesto pronaći u Japanu od čije su financijske agencije nedavno dobili [upozorenje][upozorenje] u kojem navode da Binance, kao i nekoliko drugih mjenjačnica, posluje bez odobrenja.
 
-Malta je inače jedna od vodećih država na području financijskih tehnologija, a [objavljeno][link] je i kako Institucija za digitalne inovacije na Malti planira stvoriti regulatorni okvir za kriptovalute, inicijalnu ponudu coinova ([ICO][ico]) te [mjenjačnice][exc] kriptovaluta. Vlada Malte nedavno je pozvala Zhaoa da pregleda prijedlog nadolazećeg zakonskog okvira koji se smatra pogodnim za poslovne subjekte kripto svijeta na Malti.
+Malta je inače jedna od vodećih država na području financijskih tehnologija, a [objavljeno][link] je i kako Institucija za digitalne inovacije na Malti planira stvoriti regulatorni okvir za kriptovalute, inicijalnu ponudu coinova ([ICO][ico]) te [mjenjačnice][exc] kriptovaluta. Vlada Malte nedavno je pozvala Zhaoa da pregleda prijedlog nadolazećeg zakonskog okvira koji se smatra pogodnim za poslovne subjekte kripto svijeta. Time Malta pokazuje koliko zapravo je sprema skočiti s obje noge u svijet kriptovaluta iz kojeg se nada izvući korist i zaradu pozdravljajući velike igrače poput Binancea.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">With great satisfaction <a href="https://twitter.com/cz_binance?ref_src=twsrc%5Etfw">@cz_binance</a> welcome to Malta. I look forward to work with you and as a <a href="https://twitter.com/MaltaGov?ref_src=twsrc%5Etfw">@MaltaGov</a> we&#39;re committed to provide you with the ideal ecosystem. Thank you for being part of our vision, that of making Malta  The Blockchain Island. <a href="https://twitter.com/binance?ref_src=twsrc%5Etfw">@binance</a> <a href="https://twitter.com/JosephMuscat_JM?ref_src=twsrc%5Etfw">@JosephMuscat_JM</a> <a href="https://t.co/nhFbnYH3cu">https://t.co/nhFbnYH3cu</a></p>&mdash; Silvio Schembri MP (@SilvioSchembri) <a href="https://twitter.com/SilvioSchembri/status/977169918293696512?ref_src=twsrc%5Etfw">March 23, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ---
 
