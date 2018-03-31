@@ -1,4 +1,4 @@
-Having infected Wall Street, the technology behind [cryptocurrencies][cc] - [Blockchain][bc] - is now slowly creeping into the movie industry. Hollywood's newest romantic comedy No Postage Necessary will soon be available on Vevue, a peer to peer video application based on [Qtum].
+Having infected Wall Street, the technology behind [cryptocurrencies][cc] - [Blockchain][bc] - is now slowly creeping into the movie industry. Hollywood's newest romantic comedy No Postage Necessary will soon be available on Vevue, a peer to peer video application based on [Qtum][Qtum].
 
 The movie will be shown in theaters this June, but will also be purchasable with cryptocurrency. Additionally, if users leave a review of the movie after having seen it, they'll be able to redeem some Vevue tokens.
 
