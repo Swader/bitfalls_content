@@ -1,7 +1,8 @@
 Na [raznim portalima][link] nedavno ste mogli pročitati kako će hoteli diljem Rusije u razdoblju trajanja svjetskog nogometnog prvenstva od kojeg nas dijeli svega nekoliko mjeseci primati plaćanja u [kriptovalutama][cc]. 
 
-Nažalost, moramo vas razočarati jer je to daleko od istine. Istina je da će, prema našem istraživanju, samo[apartmani Malina][malina], u ruskom gradu Kalingradu prihvaćati kriptovalute. Malina Apartments su u biti apart-hotel odnosno zgrada s nekoliko malih apartmana.
-![malina.PNG](C:/Users/SRDOC/Pictures/malina.PNG)
+Nažalost, moramo vas razočarati jer je to daleko od istine. Istina je da će, prema našem istraživanju, samo [apartmani Malina][malina], u ruskom gradu Kalingradu prihvaćati kriptovalute. Malina Apartments su u biti apart-hotel odnosno zgrada s nekoliko malih apartmana.
+
+![Malina](https://bitfalls.com/wp-content/uploads/2018/03/malina.png)
 
 Malina Apartments su u dogovorom s [Free-Kassa][fk] ruskim sustavom plaćanja omogućili svojim gostima plaćanje u kriptvalutama. Voditeljica apartmana, Anna Subbotina, je za ruski portal, [Buying Business Travel][bbt], rekla kako su zbog povećane popularnosti kriptovaluta nogometnim fanovima omogućili plaćanje ovom inovativnom tehnologijom te kako se nadaju da će i drugi hoteli slijediti njihov primjer.
 
